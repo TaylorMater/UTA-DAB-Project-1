@@ -1,8 +1,0 @@
-This is a test document to practice git workflow.
-
-
-CHANGES ARE BEING MADE HERE
-
-I have made a conflicting change. 
-
-Let's see what happens. 

@@ -172,16 +172,11 @@ Correlation coefficient was about 0.31. So it is positively correlated, but weak
 -   If we restrict the dataset to just a few countries, what indicators and metrics can we generate that correlate with development indicators? How might they defer? Would there be any advantages? 
 
 
-
-...
-
-
-
-
-
-
 -------------------------
 ## Sources:
 Dataset from Kaggle - https://www.kaggle.com/datasets/sazidthe1/data-science-salaries?resource=download
 
 Presentation - https://docs.google.com/presentation/d/1dWSk839n7c2e29vaaeYlXmGo04oD5s5SUkBu3iMJ358/edit#slide=id.p
+
+
+Other sources can be found in the `takeaways` directory, under `sources.md`

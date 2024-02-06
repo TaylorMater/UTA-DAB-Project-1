@@ -9,16 +9,25 @@ UTA Data Analysis Bootcamp Project 1
 
 ### What is the distribution of Data Science Salaries in each year?
 
-Made a change here, see if it worked--
+(Khadija input here)
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig001.png)
 
 ### What is the average salary for each job title? 
 
+(Khadija input here)
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig002.png)
+
+(Khadija input here)
 
 
-![image](https://github.com/TaylorMater/UTA-DAB-Project-1/assets/152315257/c16b79b3-1819-4977-8288-a521bca05aad)
-![image](https://github.com/TaylorMater/UTA-DAB-Project-1/assets/152315257/aebc392a-51a8-449a-873f-b2d385cc210b)
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig003.png)
+
+(Khadija input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig004.png)
 
 
 ### How does the average salary per job title vary by experience?
@@ -27,7 +36,79 @@ As we can see, Applied Scientist can earn around the same or a bigger salary on 
 We can also observe how Data Analyst salary does not vary much depending on experience. Others can go from $75K to $200K compared to Data Analyst which according to our data varies only from $75K to $125K.
 
 
-![image](https://github.com/TaylorMater/UTA-DAB-Project-1/assets/152315257/ef0ac857-f2ab-45f4-acc2-0c7285aa3270)
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/maria/fig001.png)
+
+
+### Geographic Analysis
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig001.png)
+
+
+(Riley input here)
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig002.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig003.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig004.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig005.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig006.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig007.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig008.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig009.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig010.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig011.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig012.png)
+
+(Riley input here)
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig013.png)
+
+(Riley input here)
+
+
 
 
 ### Companies located in which countries posted the most data science jobs?

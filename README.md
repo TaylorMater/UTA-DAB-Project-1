@@ -43,6 +43,8 @@ https://docs.google.com/presentation/d/1dWSk839n7c2e29vaaeYlXmGo04oD5s5SUkBu3iMJ
 
 ### This project seeks to analyze a robust dataset encompassing data science salaries spanning four years (2020-2024), to extract valuable insights. It will delve into patterns, trends and factors that impact the compensation of professionals in the data science field. The dataset incorporates details like job titles, experience levels, geographic locations and other pertinent factors affecting salaries within the realm of data science.
 
+### Please note - many of the figures were cutoff during the saving process. To see the full figures with less cutoff, you can open a corresponding Jupyter Notebook. `data_science_analysis.ipynb` has everything. 
+
 ## Research Questions
 
 ### What is the distribution of Data Science Salaries in each year?

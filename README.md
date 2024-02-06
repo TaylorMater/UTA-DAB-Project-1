@@ -55,14 +55,12 @@ Examines salary data over time to gain insights into trends, patterns and change
 
 Determines the average salary for each job titles to provide insights into the compensation landscape.
 
+
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig002.png)
 
 Identifies the highest-paying job titles, to provide valuable insights intoe salary trends, career paths and compensation competitiveness.
 
-
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig003.png)
-
-
 
 
 

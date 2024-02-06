@@ -9,13 +9,13 @@ UTA Data Analysis Bootcamp Project 1
 
 ### What is the distribution of Data Science Salaries in each year?
 
-(Khadija input here)
+By examining salary data over time,we aim to gain insights into trends, patterns and changes in compensation within the field of data science.
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig001.png)
 
 ### What is the average salary for each job title? 
 
-(Khadija input here)
+Determine the average salary for each job titles to provide insights into the compensation landscape.
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig002.png)
 

@@ -3,16 +3,18 @@ UTA Data Analysis Bootcamp Project 1
 
 -----------------------------
 
-## This project seeks to analyze a robust dataset encompassing data science salaries spanning four years (2020-2024), to extract valuable insights. It will delve into patterns, trends and factors that impact the compensation of professionals in the data science field. The dataset incorporates details like job titles, experience levels, geographic locations and other pertinent factors affecting salaries within the realm of data science.
+### This project seeks to analyze a robust dataset encompassing data science salaries spanning four years (2020-2024), to extract valuable insights. It will delve into patterns, trends and factors that impact the compensation of professionals in the data science field. The dataset incorporates details like job titles, experience levels, geographic locations and other pertinent factors affecting salaries within the realm of data science.
 
 ## Research Questions
 
 ### What is the distribution of Data Science Salaries in each year?
 
+Made a change here, see if it worked--
 
-![image](https://github.com/TaylorMater/UTA-DAB-Project-1/assets/152315257/a798bded-2771-4b2f-a4a4-84e170989ca6)
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig001.png)
 
 ### What is the average salary for each job title? 
+
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/assets/152315257/c16b79b3-1819-4977-8288-a521bca05aad)

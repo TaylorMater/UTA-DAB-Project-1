@@ -116,49 +116,54 @@ Showing the bottom 20:
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig006.png)
 
-(Riley input here)
 
 
 
 ### Companies located in which countries posted the most data science jobs?
 
+More analysis in `riley_notebook.ipynb`. But the main thing is - we notice a huge skew. The US seems to have used the tool that generates the dataset far more than other countries, so we are't getting an accurate saturation among all countries. Or at least, it looks like it until we normalize for population (as the US has a much higher populaiton than most countries on these).
+
+We started with employee residence as our location again.
+
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig007.png)
 
-(Riley input here)
+Showing the top 10:
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig008.png)
 
-(Riley input here)
-
+Now with company location:
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig009.png)
 
-(Riley input here)
-
+Showing the top 10:
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig010.png)
 
-(Riley input here)
 
 ### Which countries (company location) posted the most data science jobs when normalized for population?
 
+Te previous question lets us see a skew towards the US. Is that due to underlying issues in the dataset or to the strength of the Data Science market in the US? One way to get more information on that is to normalize everything by the population. You would expect at least comparable data science jobs per capita in countries like the Netherlands and the UK to the US. 
+
+After seeing the results, it definitely still seems skewed, but not as much as you might have originally thought. 
+
+Sticking with company location for our countries:
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig011.png)
 
-(Riley input here)
-
+Showing the top 10:
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig012.png)
 
-(Riley input here)
 
 ### How does the count of a country's data science jobs in our data set correlate to gdp per capita of said country?
 
+Correlation coefficient was about 0.31. So it is positively correlated, but weakly. Flaws in the data set could explain this, but you could also argue that the internet allows for the proliferation of Data Science jobs even in less developed economies. But considering the skew in the data set, it's hard to be decisive. 
+
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig013.png)
 
-(Riley input here)
+
 
 
 

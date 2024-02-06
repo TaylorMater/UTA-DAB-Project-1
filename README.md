@@ -19,12 +19,12 @@ Determines the average salary for each job titles to provide insights into the c
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig002.png)
 
-(Khadija input here)
+Identifies the highest-paying job titles, to provide valuable insights intoe salary trends, career paths and compensation competitiveness.
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig003.png)
 
-Identifies the highest-paying job titles, to provide valuable insights intoe salary trends, career paths and compensation competitiveness.
+
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig004.png)

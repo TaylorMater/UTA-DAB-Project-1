@@ -47,22 +47,22 @@ https://docs.google.com/presentation/d/1dWSk839n7c2e29vaaeYlXmGo04oD5s5SUkBu3iMJ
 
 ### What is the distribution of Data Science Salaries in each year?
 
-(Khadija input here)
+Examines salary data over time to gain insights into trends, patterns and changes in compensation within the field of data science.
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig001.png)
 
 ### What is the average salary for each job title? 
 
-(Khadija input here)
+Determines the average salary for each job titles to provide insights into the compensation landscape.
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig002.png)
 
-(Khadija input here)
+Identifies the highest-paying job titles, to provide valuable insights intoe salary trends, career paths and compensation competitiveness.
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig003.png)
 
-(Khadija input here)
+
 
 
 

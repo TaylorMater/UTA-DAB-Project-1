@@ -87,30 +87,31 @@ Very thorough analysis and discussion of these questions in more detail can be f
 
 ### Which countries pay the highest data science salaries?
 
+First doing the analysis using employee residence as our country.
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig001.png)
 
 
-This is a little large
+Showing the top 20 because the above graph is too big:
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig002.png)
 
-(Riley input here)
+
+Showing the bottom 20:
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig003.png)
 
-(Riley input here)
-
+Now doing the analysis but with company location as our country. 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig004.png)
 
-(Riley input here)
+Showing the top 20 because the above graph is too big:
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig005.png)
 
-(Riley input here)
+Showing the bottom 20:
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/riley/fig006.png)

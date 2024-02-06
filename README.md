@@ -64,8 +64,6 @@ Identifies the highest-paying job titles, to provide valuable insights intoe sal
 
 
 
-![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/khadija/fig004.png)
-
 
 ### How does the average salary per job title vary by experience?
 Based on the information gathered and the graph presented below, we can see how the experience level on each job affects differently depending on the job title. 
@@ -74,6 +72,11 @@ We can also observe how Data Analyst salary does not vary much depending on expe
 
 
 ![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/maria/fig001.png)
+
+
+
+
+![image](https://github.com/TaylorMater/UTA-DAB-Project-1/blob/main/figures/maria/fig002.png)
 
 
 ### Geographic Analysis
